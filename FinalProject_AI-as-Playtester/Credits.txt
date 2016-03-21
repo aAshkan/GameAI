@@ -1,3 +1,0 @@
-Flappy bird game: https://github.com/sourabhv/FlapPyBird
-
-Pourya Sohbati: https://github.com/PouryaSohbati/
